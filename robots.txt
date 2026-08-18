@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-s7jnrb.wakku.work/sitemap.xml
